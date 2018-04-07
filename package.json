@@ -1,0 +1,26 @@
+{
+  "name": "@gnarlycode/tslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tslint.js",
+  "files": [
+    "README.md",
+    "tslint.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Dmitry Podlesny",
+    "email": "rezed93@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnarlycode/tslint-config.git"
+  },
+  "homepage": "https://github.com/gnarlycode/tslint-config#readme",
+  "bugs": {
+    "url": "https://github.com/gnarlycode/tslint-config/issues"
+  },
+  "license": "ISC"
+}
